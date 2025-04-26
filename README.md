@@ -15,15 +15,7 @@ The goal of the project is to derive business insights related to revenue, custo
 
 ## 📂 Project Structure
 
-```bash
-EcommerceSalesData/
-├── queries/
-│   ├── Data Preparation/
-│   │   └── [SQL scripts for cleaning, fixing datatypes, translations]
-│   ├── Data Analysis/
-│   │   └── [SQL scripts answering key business questions]
-├── README.md
-└── [Other SQL files]
+EcommerceSalesData/ ├── queries/ │ ├── Data Preparation/ │ │ └── [SQL scripts for cleaning, fixing datatypes, translations] │ ├── Data Analysis/ │ │ └── [SQL scripts answering key business questions] ├── README.md └── [Other SQL files]
 
 ---
 
