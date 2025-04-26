@@ -12,7 +12,6 @@ The goal of the project is to derive business insights related to revenue, custo
 
 ---
 
-## 📂 Project Structure
 
 ## 📂 Project Structure
 
@@ -25,8 +24,6 @@ EcommerceSalesData/
 │   │   └── [SQL scripts answering key business questions]
 ├── README.md
 └── [Other SQL files]
-
-
 
 ---
 
