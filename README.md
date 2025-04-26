@@ -37,3 +37,41 @@ The dataset used for this analysis is available on **Kaggle**:
 - Create interactive dashboards in Power BI/Tableau.
 - Automate the data pipeline using Python.
 - Integrate more advanced analytics (e.g., customer segmentation).
+
+  
+---
+
+## 🛠️ Technologies Used
+- SQL (DB Browser for SQLite)
+- Data Preparation (Fixing datatypes, handling missing values, translations)
+- Data Analysis (Revenue, Orders, Customers, Sellers insights)
+
+---
+
+## 🔍 Key Business Insights
+- **Total Revenue**: $15.4 Million
+- **Peak Orders**: 2018 Q1 | **Peak Revenue**: 2018 Q2
+- **Top Product Categories**: Health & Beauty, Bed Bath Tables, Sports Leisure
+- **Average Order Value (AOV)**: ~$205
+- **Repeat Customers Contribution**: 15% of Revenue
+- **Average Rating**: 4.09 / 5
+- **Cancellation Rate**: 0.63%
+
+---
+
+## 📊 Dataset Information
+- Source: [Brazilian Ecommerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+- Time Period: September 2016 to October 2018
+- Size: 100,000+ orders across multiple relational tables
+
+---
+
+## 🚀 How to Explore This Project
+1. Clone the repository.
+2. Open the SQL queries in any SQL editor (e.g., DB Browser for SQLite).
+3. Run the scripts to explore data preparation steps and business insights.
+
+---
+
+> Built with 💻 and 📚 by **Daivik Pelathur**
+
