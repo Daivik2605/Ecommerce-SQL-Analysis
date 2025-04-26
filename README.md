@@ -15,7 +15,16 @@ The goal of the project is to derive business insights related to revenue, custo
 
 ## 📂 Project Structure
 
-EcommerceSalesData/ ├── queries/ │ ├── Data Preparation/ │ │ └── [SQL scripts for cleaning, fixing datatypes, translations] │ ├── Data Analysis/ │ │ └── [SQL scripts answering key business questions] ├── README.md └── [Other SQL files]
+- **queries/**
+  - **Data Preparation/**
+    - SQL scripts for cleaning, fixing datatypes, handling missing values, and adding translations.
+  - **Data Analysis/**
+    - SQL scripts answering 10 business questions about revenue, customers, sellers, product performance.
+- **README.md**
+  - Full project description, key insights, and methodology.
+- **Other SQL Files**
+  - Standalone scripts for data exploration, revenue trends, and best-selling products.
+
 
 ---
 
