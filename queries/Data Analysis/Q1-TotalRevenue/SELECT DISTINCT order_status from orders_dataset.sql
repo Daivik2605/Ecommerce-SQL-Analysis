@@ -1,0 +1,2 @@
+SELECT DISTINCT order_status
+FROM olist_orders_dataset;
